@@ -3,4 +3,4 @@ This is an Assignment from Subject Principal of Programming Language Semester 22
 ## Introdution
 BKOOL, pronounced Bi-Kool, is a mini object-oriented programming language, which is designed primarily for students practising implementing a simple compiler for a simple
 object-oriented language.
-Despite its simplicity, BKOOL includes most important features of an object-oriented language such as encapsulation, information hiding, class hierarchy, inheritance, and polymorphism.
+Despite its simplicity, BKOOL includes most important features of an object-oriented language such as encapsulation, information hiding, class hierarchy, inheritance, and polymorphism.
